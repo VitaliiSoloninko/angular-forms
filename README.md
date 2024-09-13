@@ -1,3 +1,7 @@
+Auth:
+Login
+SignUp
+
 2 ways of handling forms in Angular:
 
 - Template-driven forms
